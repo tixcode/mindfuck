@@ -5,7 +5,7 @@ MindF**k it's a programming language as BrainFuck, but with some cool features.
 
 |Symbol|What does symbol mean|
 |--|--|
->|Next slot
+\>|Next slot
 <| Previous Slot
 :|Next slot 10 times
 ;|Previous slot 10 times
