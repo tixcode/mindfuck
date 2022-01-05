@@ -2,7 +2,7 @@
 ## Description
 MindF*\*k it's a programming language as BrainF\*\*k, but with some cool features.
 
-
+## Table with special symbols
 |Symbol|What does symbol mean|
 |--|--|
 \>|Next slot
