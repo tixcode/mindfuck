@@ -1,6 +1,6 @@
 # MindF**k
 ## Description
-MindF**k it's a programming language as BrainFuck, but with some cool features.
+MindF*\*k it's a programming language as BrainF\*\*k, but with some cool features.
 
 
 |Symbol|What does symbol mean|
